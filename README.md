@@ -43,7 +43,7 @@ Let's Get Started
 
 * If you would like to contribute through videos & blogs you can check out [Community Contributions](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md).
 
-* We also welcome the issues and enhancements raised by our contributors as we believe in the phrase ”Together we are stronger”. Feel free to create your valid issues which you think are essential in the respective repositories. We will soon assign them to you so that you can give your best shot.
+* We also welcome the issues and enhancements raised by our contributors as we believe in the phrase ”Together we are stronger.” Feel free to create your valid matters which you think are essential in the respective repositories. We will soon assign them to you so that you can give your best shot.
 
 * We believe you all are talented enough to have your own contribution ideas and suggestions. We welcome you all with open hands.
 
